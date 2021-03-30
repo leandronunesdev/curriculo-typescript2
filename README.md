@@ -25,7 +25,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone <https://github.com/leandronunesdev/curriculo-typescript2>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd curriculo-typescript
+$ cd curriculo-typescript2
 
 # Instale as dependências
 $ npm install 
